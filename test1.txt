@@ -1,3 +1,6 @@
 test1
 test2
 f3 = test3
+f4 = test4
+f5 = test5
+f6 = test6
